@@ -1,0 +1,13 @@
+cities:
+  - name: "New York"
+    lat: 40.7128
+    lon: -74.0060
+    country: "USA"
+  - name: "San Francisco"
+    lat: 37.7749
+    lon: -122.4194
+    country: "USA"
+  - name: "Hyderabad"
+    lat: 17.3850
+    lon: 78.4867
+    country: "India"
